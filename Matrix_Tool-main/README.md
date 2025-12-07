@@ -1,6 +1,6 @@
 # MATRIX OPERATIONS TOOL
 
-A Python application that performs various matrix operations using the NumPy library.
+A Python application that performs various matrix operations using the numpy library.
 Users can input matrices and perform operations such as addition, subtraction, multiplication, transpose, and determinant calculation, with results displayed in a clean and structured format.
 
 # FEATURES
@@ -16,12 +16,12 @@ Users can input matrices and perform operations such as addition, subtraction, m
 # Determinant Calculation
 
   * Displays output in a user-friendly format
-  * Built using Python and NumPy
+  * Built using Python and numpy
 
 # TECH STACK
   
    * Language	-Python
-   * Library  -numPy
+   * Library  -numpy
    
 # HOW TO RUN
  Start Backend (Flask)
