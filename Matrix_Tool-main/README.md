@@ -12,12 +12,8 @@ Users can input matrices and perform operations such as addition, subtraction, m
   * Matrix Subtraction
   * Matrix Multiplication
   * Matrix Transpose
-
-# DETERMINANT CALCULATION
-
-  * Displays output in a user-friendly format
-  * Built using Python and numpy
-
+  * Matrix Determinant
+    
 # TECH STACK
   
    * Language	-Python
@@ -27,7 +23,7 @@ Users can input matrices and perform operations such as addition, subtraction, m
  Start Backend (Flask)
   * cd backend
   * pip install -r requirements.txt
-  *  python app.py
+  * python app.py
 
 Start Frontend (React)
    * cd frontend
