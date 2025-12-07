@@ -19,9 +19,9 @@ Users can input matrices and perform operations such as addition, subtraction, m
   * Built using Python and NumPy
 
 # TECH STACK
-   Component	Technology
-   Language	    Python
-   Library    	NumPy
+  
+   * Language	-Python
+   * Library  -numPy
    
 # HOW TO RUN
  Start Backend (Flask)
