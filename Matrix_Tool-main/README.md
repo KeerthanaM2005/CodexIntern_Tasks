@@ -1,22 +1,22 @@
-📌 Matrix Operations Tool
+# Matrix Operations Tool
 
 A Python-based application that allows users to perform various matrix operations using the NumPy library.
 The tool accepts matrices as input and processes operations with a clean, interactive display of results.
 
-✨ Features
+# Features
 
 ✔ Takes user input to construct matrices
 ✔ Supports the following matrix operations:
 
-➕ Matrix Addition
+* Matrix Addition
 
-➖ Matrix Subtraction
+* Matrix Subtraction
 
-✖ Matrix Multiplication
+* Matrix Multiplication
 
-🔁 Matrix Transpose
+* Matrix Transpose
 
-📌 Determinant Calculation
+* Determinant Calculation
 
 ✔ Displays outputs in a structured and user-friendly format
 ✔ Lightweight and simple to use
@@ -25,11 +25,12 @@ The tool accepts matrices as input and processes operations with a clean, intera
 Component	Technology
 Language	Python
 Library	NumPy
-🚀 How to Run the Project
-🔹 Backend (Flask)
-cd backend
-pip install -r requirements.txt
-python app.py
+
+## How to Run the Project
+Backend (Flask)
+ * cd backend
+ * pip install -r requirements.txt
+ * python app.py
 
 🔹 Frontend (React)
 cd frontend
