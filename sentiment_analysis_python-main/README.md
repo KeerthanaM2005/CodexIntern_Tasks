@@ -20,9 +20,9 @@
 
 ## TECHNOLOGIES AND TOOLS
 
-Backend: Python, Flask, TextBlob, MySQL (mysql-connector-python)
-Frontend: React, Axios
-Additional Tools: Flask-CORS for cross-origin requests, CSV utilities for bulk upload
+* Backend: Python, Flask, TextBlob, MySQL (mysql-connector-python)
+* Frontend: React, Axios
+* Additional Tools: Flask-CORS for cross-origin requests, CSV utilities for bulk upload
 
 ## RUNNING THE APPLICATION
 Start the Backend (Flask)
