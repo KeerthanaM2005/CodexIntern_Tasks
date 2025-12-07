@@ -1,0 +1,20 @@
+# FRONTEND
+node_modules/
+build/
+dist/
+*.log
+*.env
+
+# BACKEND (Flask)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+instance/
+.env
+
+# OS / EDITORS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
