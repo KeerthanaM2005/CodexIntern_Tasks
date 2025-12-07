@@ -1,50 +1,45 @@
-# Matrix Operations Tool
+# MATRIX OPERATIONS TOOL
 
-A Python-based application that allows users to perform various matrix operations using the NumPy library.
-The tool accepts matrices as input and processes operations with a clean, interactive display of results.
+A Python application that performs various matrix operations using the NumPy library.
+Users can input matrices and perform operations such as addition, subtraction, multiplication, transpose, and determinant calculation, with results displayed in a clean and structured format.
 
-# Features
+# FEATURES
 
-✔ Takes user input to construct matrices
-✔ Supports the following matrix operations:
+ Accepts user input to create matrices
+ Supports the following operations:
 
-* Matrix Addition
+  * Matrix Addition
+  * Matrix Subtraction
+  * Matrix Multiplication
+  * Matrix Transpose
 
-* Matrix Subtraction
+# Determinant Calculation
 
-* Matrix Multiplication
+  * Displays output in a user-friendly format
+  * Built using Python and NumPy
 
-* Matrix Transpose
+# TECH STACK
+   Component	Technology
+   Language	    Python
+   Library    	NumPy
+   
+# HOW TO RUN
+ Start Backend (Flask)
+  * cd backend
+  * pip install -r requirements.txt
+  *  python app.py
 
-* Determinant Calculation
+Start Frontend (React)
+   * cd frontend
+   * npm install
+   * npm start
 
-✔ Displays outputs in a structured and user-friendly format
-✔ Lightweight and simple to use
+# RESULT
 
-🛠 Tech Stack
-Component	Technology
-Language	Python
-Library	NumPy
+After running the application:
 
-## How to Run the Project
-Backend (Flask)
- * cd backend
- * pip install -r requirements.txt
- * python app.py
+* You will be prompted to enter matrix values
 
-🔹 Frontend (React)
-cd frontend
-npm install
-npm start
+* A menu containing matrix operations will appear
 
-🖥 Result / Workflow
-
-After launching the application:
-
-The user enters values to create matrices
-
-A menu appears showing all available matrix operations
-
-The selected operation is executed
-
-The final output is displayed clearly on the screen
+* After selecting an operation, the result will be displayed clearly on the screen
