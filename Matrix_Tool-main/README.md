@@ -13,7 +13,7 @@ Users can input matrices and perform operations such as addition, subtraction, m
   * Matrix Multiplication
   * Matrix Transpose
 
-# Determinant Calculation
+# DETERMINANT CALCULATION
 
   * Displays output in a user-friendly format
   * Built using Python and numpy
